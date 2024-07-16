@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lily\u5965\u5FB7\u8D5B\u8D44\u6599\\IkunOdyssey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E40F7E57-74EC-56EC-F36F-2CD39B7774E1}|Assembly-CSharp.csproj|d:\\lily\u5965\u5FB7\u8D5B\u8D44\u6599\\ikunodyssey\\assets\\player two\\platformer project\\scripts\\player\\playerinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E40F7E57-74EC-56EC-F36F-2CD39B7774E1}|Assembly-CSharp.csproj|solutionrelative:assets\\player two\\platformer project\\scripts\\player\\playerinputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerInputManager.cs",
+              "DocumentMoniker": "D:\\Lily\u5965\u5FB7\u8D5B\u8D44\u6599\\IkunOdyssey\\Assets\\PLAYER TWO\\Platformer Project\\Scripts\\Player\\PlayerInputManager.cs",
+              "RelativeDocumentMoniker": "Assets\\PLAYER TWO\\Platformer Project\\Scripts\\Player\\PlayerInputManager.cs",
+              "ToolTip": "D:\\Lily\u5965\u5FB7\u8D5B\u8D44\u6599\\IkunOdyssey\\Assets\\PLAYER TWO\\Platformer Project\\Scripts\\Player\\PlayerInputManager.cs",
+              "RelativeToolTip": "Assets\\PLAYER TWO\\Platformer Project\\Scripts\\Player\\PlayerInputManager.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAUwAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:07:05.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
