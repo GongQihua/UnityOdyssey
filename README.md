@@ -24,6 +24,8 @@
 
 ## 链接
 
+![莉丽冒险世界](DEMO\screenshot.png)
+
 详细文档左转博客：https://gongqihua.github.io/
 
-演示Demo在Demo文件夹下：传送门。
+演示Demo在Demo文件夹下：[传送门](DEMO\Odyssey.mp4)。
